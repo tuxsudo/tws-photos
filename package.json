@@ -1,0 +1,25 @@
+{
+  "name": "tws-photos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rblakejohnson/tws-photos.git"
+  },
+  "author": "Blake Johnson <@rblakejohnson>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rblakejohnson/tws-photos/issues"
+  },
+  "homepage": "https://github.com/rblakejohnson/tws-photos",
+  "devDependencies": {
+    "x-ray": "^2.0.3"
+  },
+  "dependencies": {
+    "download": "^4.4.3"
+  }
+}
